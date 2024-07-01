@@ -15,7 +15,7 @@ def check_admin_privileges():
         print("Running with administrative privileges!")
     else:
       if Debug:
-        print("Debug mode is enabled.")
+        print("Thank you for using krypted")
       else:
         print("This program requires administrator privileges to run properly.")
         print("Exiting..")
